@@ -2,8 +2,7 @@
 
 ## Learning Objectives
 
-- Create a Spring Application with the usual end points
-- Practice deploying the Spring Application to a Docker Container
+- Deploy the exercise.wwwapi API project to a Docker Container
 
 ## Instructions
 
