@@ -30,9 +30,7 @@ Your API should connect to an ElephantSQL database instance that can be used for
 
 Create a `Dockerfile` and any other associated files to allow you to deploy the application using a Docker Container.
 
-Do not share your credentials in the `application.yml` file. 
-
-To assess this we will clone your repository, add our own credentials to the cloned repository and use those to test that the application works as expected.
+Make sure your `appsettings.json` file is on `.gitignore` so that it doesn't contain your private database connection strings. To assess this we will clone your repository, add our own credentials to the cloned repository and use those to test that the application works as expected.
 
 ## Extension
 
