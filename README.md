@@ -8,7 +8,7 @@
 
 1. Fork this repository
 2. Clone your fork to your machine
-3. Open the project in IntelliJ
+3. Open the project 
 
 ## Core
 
@@ -27,8 +27,6 @@ The data for students should include:
 * Average Grade 
 
 Your API should connect to an ElephantSQL database instance that can be used for storing the data.
-
-Create a `jar` file for the completed application.
 
 Create a `Dockerfile` and any other associated files to allow you to deploy the application using a Docker Container.
 
