@@ -1,5 +1,5 @@
 ﻿using exercise.wwwapi.DataModels;
-using exercise.wwwapi.DataTransferObjects;
+using exercise.wwwapi.DTO;
 using exercise.wwwapi.Repository;
 using Microsoft.AspNetCore.Mvc;
 
